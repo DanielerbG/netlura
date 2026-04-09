@@ -27,7 +27,6 @@ Interface inspirada na Netflix com:
   - Épicos
   - Séries
   - Para maratonar
-- Cards interativos com hover
 - Exibição de informações como:
   - Relevância (%)
   - Classificação indicativa
@@ -35,13 +34,9 @@ Interface inspirada na Netflix com:
 
 ### ▶️ Reprodução de Trailer
 - Vídeos do YouTube iniciam automaticamente ao passar o mouse
-- Controle de autoplay e mute
 
 ### 🎯 Extras
 - Barra de progresso em conteúdos assistidos
-- Badges (Top 10, Novo episódio, etc.)
-- Navbar fixa estilo Netflix
-- Footer com links
 
 
 ## 🚀 Tecnologias
